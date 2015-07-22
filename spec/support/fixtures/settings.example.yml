@@ -1,0 +1,6 @@
+---
+tvdb:
+  host_url: https://api.thetvdb.com
+  username: foo
+  password: bar
+  api_key:  123abc
