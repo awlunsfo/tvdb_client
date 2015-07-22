@@ -1,7 +1,7 @@
 ---
 tvdb:
-  host_url: https://api.thetvdb.localhost.com
+  apikey: 123abc
   username: biz
-  password: baz
-  api_key:  123abc
-  default_api_version: 1.2.0
+  userpass: baz
+  host_url: https://api.thetvdb.localhost.com
+  api_version: 1.2.0

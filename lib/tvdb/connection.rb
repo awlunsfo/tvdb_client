@@ -1,6 +1,7 @@
 module TVDB
   class Connection
     require "faraday"
+    require "json"
 
     attr_accessor :token, :response_struct
     attr_reader   :connection, :host_url

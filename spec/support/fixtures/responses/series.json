@@ -1,0 +1,33 @@
+{
+    "data": {
+        "id": 76703,
+        "seriesName": "Pokémon",
+        "aliases": [
+            "Pokemon",
+            "Diamond and Pearl",
+            "Pocket Monsters",
+            "Pokémon: Black & White"
+        ],
+        "banner": "graphical/76703-g6.jpg",
+        "seriesId": "467",
+        "status": "Continuing",
+        "firstAired": "1997-04-01",
+        "network": "TV Tokyo",
+        "networkId": "",
+        "runtime": "30",
+        "genre": [
+            "Animation",
+            "Children"
+        ],
+        "actors": [],
+        "overview": " A young boy named Ash Ketchum embarks on a journey to become a \"Pokemon Master\" with his first Pokemon, Pikachu. Joining him on his travels are Brock, a girl-obsessed Rock Pokemon Trainer, and Misty, a tomboyish Water Pokemon Trainer who may have a crush on him. Ash and Co. end up traveling through various regions, including Kanto, the Orange Islands, and Johto, and then enter the Pokemon League competitions there. Along the way, they run into many confrontations with Jessie, James, and Meowth, a trio of Pokemon thieves who are apart of an evil organization called \"Team Rocket\". But everytime Team Rocket try to do their evil deeds, they fail thanks to Ash and his Pokemon.",
+        "lastUpdated": 1437155768,
+        "airsDayOfWeek": "",
+        "airsTime": "",
+        "rating": "TV-Y",
+        "imdbId": "tt0176385",
+        "zap2itId": "",
+        "added": "",
+        "addedBy": null
+    }
+}

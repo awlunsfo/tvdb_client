@@ -1,5 +1,4 @@
 require 'sinatra/base'
-require 'multi_json'
 
 class FakeTVDB < Sinatra::Base
   post '/login' do
@@ -19,7 +18,13 @@ class FakeTVDB < Sinatra::Base
   end
 
   get '/series/:id' do
-    unauthed_json_response if bad_auth_header?( request )
+    if bad_auth_header?( request )
+      unauthed_json_response 
+    elsif params["id"] != 76703
+      not_found_json_response( params["id"] )
+    else
+      json_response 200, 'responses/series.json'
+    end
   end
 
   private
@@ -34,6 +39,12 @@ class FakeTVDB < Sinatra::Base
     content_type :json
     status 401
     '{"Error":"API Key Required"}'
+  end
+
+  def not_found_json_response( id )
+    content_type :json
+    status 404
+    "{\"Error\": \"ID: #{id} not found\"}"
   end
 
   def bad_auth_header?( request )
