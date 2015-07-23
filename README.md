@@ -8,6 +8,22 @@ This gem has not yet been published on rubygems.org. For now, you will have to
 download and build the gem from source. I will publish the gem once it is in  
 a releaseable state.
 
+```sh
+$ git clone git@github.com:awlunsfo/tvdb_client.git
+$ cd tvdb_client
+$ gem build tvdb_client.gemspec
+```
+
+## Usage
+
+### Gemfile
+```ruby
+source "https://rubygems.org"
+
+gem 'tvdb_client', :path => "/path/to/your/cloned/repository/tvdb_client"
+```
+
+### Example
 ```ruby
 require 'tvdb_client'
 
