@@ -36,11 +36,5 @@ module TVDB
       series = connection.get( route, options )
       @data  = series.body
     end
-
-    # def set_attrs( series )
-    #   series.body.each do |k,v|
-    #     instance_variable_set("@#{k}", v) unless v.nil?
-    #   end
-    # end
   end
 end
