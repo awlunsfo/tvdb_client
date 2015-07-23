@@ -11,6 +11,10 @@ module TVDB
       auth.refresh_token
     end
 
+    def series( series_id )
+      TVDB::Series.new( connection, series_id )
+    end
+
     private
 
     def authenticate( options )

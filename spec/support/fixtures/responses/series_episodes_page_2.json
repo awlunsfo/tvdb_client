@@ -2,8 +2,8 @@
     "errors": null,
     "links": {
         "first": 1,
-        "last": 10,
-        "next": 3,
+        "last": 2,
+        "next": null,
         "prev": 1
     },
     "data": [

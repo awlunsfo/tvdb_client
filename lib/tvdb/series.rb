@@ -16,6 +16,20 @@ module TVDB
       connection.get( "#{route}/episodes", options ).body
     end
 
+    def all_episodes
+      first_page = connection.get( "#{route}/episodes" ).body["links"]["first"]
+      last_page  = connection.get( "#{route}/episodes" ).body["links"]["last"]
+
+      all_eps    = Array.new
+
+      for page in first_page..last_page
+        params   = { :params => { page: page } }
+        all_eps << connection.get( "#{route}/episodes", params ).body["data"]
+      end
+
+      return all_eps.flatten
+    end
+
     private
 
     def get_series( series_id, options = {} )
