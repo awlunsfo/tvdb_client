@@ -46,7 +46,7 @@ namespace :version do
   end
 
   def write_version_file( version )
-    yes_or_no = ask( "You are about to change tvdb-client to version: #{version}. Continue? [y/n]" )
+    yes_or_no = ask( "You are about to change tvdb_client to version: #{version}. Continue? [y/n]" )
 
     continue?( yes_or_no )
     create_new_version_file( version )
@@ -70,7 +70,7 @@ namespace :version do
 
     erb               = ERB.new( File.read( template ) )
     file_output       = erb.result(binding)
-    file_output_path  = File.expand_path( '../../lib/tvdb/version.rb', __FILE__ )
+    file_output_path  = File.expand_path( '../../lib/tvdb_client/version.rb', __FILE__ )
 
     File.open( file_output_path, 'w' ) { |f| f.write( file_output ) }
 

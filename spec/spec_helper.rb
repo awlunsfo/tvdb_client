@@ -46,7 +46,7 @@ Spork.each_run do
   RSpec.configure do |config|
     base_dir = File.expand_path("../../", __FILE__)
 
-    Dir["#{base_dir}/lib/tvdb/**/*.rb"].each {|f| require f}
+    Dir["#{base_dir}/lib/tvdb_client/**/*.rb"].each {|f| require f}
     Dir["#{base_dir}/spec/support/**/*.rb"].sort.each { |f| require f}
   end
 end
