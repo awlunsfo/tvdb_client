@@ -30,4 +30,16 @@ describe "TVDB::Client" do
     end
   end
 
+  describe "Functionality" do
+    context 'Series' do
+      it "should return a series object" do
+        pokemon = subject.series( '76703')
+
+        expect( pokemon ).to be_a_kind_of( TVDB::Series )
+        expect( pokemon.data ).to be_a_kind_of( Hash )
+        expect( pokemon.data ).to have_key( "data" )
+      end
+    end
+  end
+
 end

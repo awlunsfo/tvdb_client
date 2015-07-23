@@ -17,17 +17,22 @@ module TVDB
     end
 
     def all_episodes
-      first_page = connection.get( "#{route}/episodes" ).body["links"]["first"]
-      last_page  = connection.get( "#{route}/episodes" ).body["links"]["last"]
-
-      all_eps    = Array.new
+      links      = connection.get( "#{route}/episodes" ).body["links"]
+      first_page = links["first"]
+      last_page  = links["last"]
+      threads    = Array.new
+      @all_eps   = Array.new
 
       for page in first_page..last_page
-        params   = { :params => { page: page } }
-        all_eps << connection.get( "#{route}/episodes", params ).body["data"]
+        threads << Thread.new( page ) do |page_num|
+          params   = { :params => { page: page_num } }
+          @all_eps << connection.get( "#{route}/episodes", params ).body["data"]
+        end
       end
 
-      return all_eps.flatten
+      threads.each { |thread| thread.join }
+
+      return @all_eps.flatten
     end
 
     private

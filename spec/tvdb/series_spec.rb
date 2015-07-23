@@ -42,15 +42,14 @@ describe "TVDB::Series" do
     it "should return the 2nd page of results" do
       result = subject.episodes( :params => { page: 2 } )
 
-      expect( result["links"]["next"] ).to eq( 3 )
+      expect( result["links"]["next"] ).to eq( nil )
     end
 
-    it "should be able to return all episodes for a series", focus: true do
+    it "should be able to return all episodes for a series" do
       page1 = subject.episodes( :params => { page: 1 } )["data"]
       page2 = subject.episodes( :params => { page: 2 } )["data"]
 
       combined_pages = [page1, page2].flatten
-      # subject.all_episodes
 
       expect( subject.all_episodes.length ).to eq( combined_pages.length )
     end
