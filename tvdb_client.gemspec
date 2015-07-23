@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'terminal-notifier-guard',    '~> 1.6'
   spec.add_development_dependency 'rb-readline',                '~> 0.5'
   spec.add_development_dependency 'pry-byebug',                 '~> 3.2'
-  spec.add_development_dependency 'guard-spork',                '~> 1.5'
+  spec.add_development_dependency 'guard-spork',                '~> 2.1'
   spec.add_development_dependency 'spork',                      '~> 0.9'
   spec.add_development_dependency 'yard',                       '~> 0.8'
   spec.add_development_dependency 'rspec',                      '~> 3.1'

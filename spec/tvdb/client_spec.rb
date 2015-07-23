@@ -9,7 +9,7 @@ describe "TVDB::Client" do
 
   describe "Initialization" do
     it "should require user credentials" do
-      expect { TVDB::Client.new( invalid_creds ) }.to raise_error
+      expect { TVDB::Client.new( invalid_creds ) }.to raise_error( RuntimeError )
     end
 
     it "should authenticate the user and set a token" do
