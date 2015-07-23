@@ -6,8 +6,8 @@ module TVDB
     attr_accessor :connection
 
     def initialize( options )
-      @username    = options.fetch( :username )   { Settings.tvdb.username }
-      @password    = options.fetch( :userpass )   { Settings.tvdb.userpass }
+      @username    = options.fetch( :username )   { nil }
+      @password    = options.fetch( :userpass )   { nil }
       @api_key     = options.fetch( :apikey )     { Settings.tvdb.apikey   }
       @connection  = options.fetch( :connection )
     end

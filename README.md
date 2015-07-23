@@ -29,8 +29,8 @@ require 'tvdb_client'
 
 # Placeholder values
 credentials = {
-  :username => "some_user",
-  :userpass => "some_password",
+  :username => "some_user",     # username is optional
+  :userpass => "some_password", # userpass is optional
   :apikey   => "my_unique_api_key",
   :host_url => "https://tvdb.api.com"
 }
