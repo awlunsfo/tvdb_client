@@ -9,7 +9,7 @@ module TVDB
     def initialize( options = {} )
       @token           = ""
       @host_url        = options.fetch( :host_url ) { Settings.tvdb.host_url }
-      @connection      = Faraday.new( :url => host_url )
+      @connection      = Faraday.new( :url => host_url, :ssl => { :verify => false } )
       @response_struct = Struct.new( :request_url, :code, :body, :headers )
     end
 
