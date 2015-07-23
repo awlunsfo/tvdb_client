@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'semantic'
-require 'highline'
+require 'highline/import'
 require 'settingslogic'
 
 require_relative 'lib/tvdb'

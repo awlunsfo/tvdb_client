@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'tvdb/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "tvdb"
+  spec.name          = "tvdb-client"
   spec.version       = TVDB::VERSION
   spec.authors       = ["Aaron Lunsford"]
   spec.email         = ["awlunsfo@gmail.com"]
   spec.summary       = %q{Ruby client for the TVDB API}
   spec.description   = %q{Ruby library for interacting with the TVDB's REST API}
-  spec.homepage      = "https://github.com/awlunsfo/tvdb.git"
+  spec.homepage      = "https://github.com/awlunsfo/tvdb-client.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

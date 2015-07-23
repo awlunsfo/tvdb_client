@@ -46,7 +46,7 @@ namespace :version do
   end
 
   def write_version_file( version )
-    yes_or_no = ask( "You are about to change TVDB to version: #{version}. Continue? [y/n]" )
+    yes_or_no = ask( "You are about to change tvdb-client to version: #{version}. Continue? [y/n]" )
 
     continue?( yes_or_no )
     create_new_version_file( version )
@@ -66,7 +66,7 @@ namespace :version do
 
   def create_new_version_file( version )
     @new_version = version
-    template     = File.expand_path( "#{Settings.paths.templates}/versioning/version.rb.erb", __FILE__ )
+    template     = File.expand_path( "../../templates/version.rb.erb", __FILE__ )
 
     erb               = ERB.new( File.read( template ) )
     file_output       = erb.result(binding)
@@ -86,7 +86,7 @@ namespace :version do
 
   def add_entry_to_changelog( version )
     @new_version  = version
-    chlg_temp     = "#{Settings.paths.templates}/versioning/changelog_entry_template.md.erb"
+    chlg_temp     = "../../templates/changelog_entry_template.md.erb"
     template      = File.expand_path( chlg_temp, __FILE__ )
 
     erb           = ERB.new( File.read( template ) )
