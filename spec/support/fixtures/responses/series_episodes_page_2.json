@@ -1,0 +1,1511 @@
+{
+    "errors": null,
+    "links": {
+        "first": 1,
+        "last": 10,
+        "next": 3,
+        "prev": 1
+    },
+    "data": [
+        {
+            "absoluteNumber": "749",
+            "airedEpisodeNumber": 6,
+            "airedSeason": "15",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Jostling for the Junior Cup!",
+            "firstAired": "2012-08-02",
+            "id": 4359831,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and his friends arrive in Lacunosa Town for the Junior Cup. The Cup begins with an exhibition match between Cynthia and Caitlyn. Iris and Georgia face off against each other but Iris’ newly caught Dragonite refuses to listen to Iris’ commands."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 6,
+            "airedSeason": "16",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Battling on thin ice!",
+            "firstAired": "2013-11-14",
+            "id": 4709580,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash challenges Viola to a rematch, now ready for Surskit's freezing strategy. "
+        },
+        {
+            "absoluteNumber": "7",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "1",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Water Flowers of Cerulean City",
+            "firstAired": "1997-05-13",
+            "id": 208324,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "In his search to collect Trainer Badges, Ash heads for Cerulean City, intending to confront the Cerulean Gym Leader. For some reason, Misty expresses a desire to avoid Cerulean City and disappears somewhere along the way. Without concern for Misty, Ash and Pikachu continue toward the Cerulean City Gym. When they arrive, the exterior of the Gym gives the strange appearance of an aquarium. Upon entering the building, Ash and Pikachu are entranced by a synchronized swimming show being performed by three beautiful sisters. Could this truly be the Cerulean Gym? And what could be the role of the three beautiful swimming sisters? More importantly, will Ash be able to defeat the strangely absent Gym Leader to earn his next badge?\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "89",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "2",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Crystal Onix",
+            "firstAired": "2000-02-05",
+            "id": 208406,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While riding around the Orange Islands on his Lapras, Ash finds a mysterious message in a bottle, which leads the gang on a new adventure. Ash, Misty and Tracey travel to Sunburst Island, which is famous for its artists and glassblowers. They meet a struggling young shopkeeper who's seeking inspiration from a legendary \"Crystal Onix.\" Having been unable to find this special Pokémon, the shopkeeper turns to our heroes. With Tracey and his observational Pokémon on board, they set out to fire up a new friend's creative drive!\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "125",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "3",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Spinarak Attack",
+            "firstAired": "2000-11-11",
+            "id": 208442,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Our heroes make their way to Cattailia City, a town recognized for its magnificent buildings. A patrol car barrels down the street, and knowing that Officer Jenny must be inside, Brock gives chase. However, a few seconds later, he trips over a thin web. Ash and Misty catch up with him and after Togepi notices something approaching, a Spinarak appears.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "166",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "4",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Carrying On",
+            "firstAired": "2001-09-22",
+            "id": 208483,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Just outside of Ecruteak City, our heroes see a flying Pidgey being attacked by a huge Fearow and decide to intervene. With Brock carrying the wounded Pidgey, the gang enters Ecruteak City in hopes of finding its trainer. Not only do our heroes find this Pidgey's home, they discover it is a member of the \"Carrier-Pidgey Express!\" Join Ash, Misty and Brock as they learn about caring for carrier-Pidgey and witness the dedication of a young boy and his grandfather to these very special Pokémon.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "218",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "5",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Dueling Heroes",
+            "firstAired": "2002-10-26",
+            "id": 208535,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "As the final round of the Whirl Cup begins, Ash and Misty must each face formidable opponents. Ash has his Kingler transferred from Oak's lab in preparation, but when he and his Totodile begin their first battle, they must face an opponent with a powerful Kingdra. Misty also faces a challenging duel with an experienced opponent and his Qwilfish. Meanwhile, Team Rocket sets about stealing an ancient jewel used in a reward ceremony to be performed for the tournament's victor.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "283",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "6",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Tree's a Crowd",
+            "firstAired": "2003-11-29",
+            "id": 208600,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Deep in the woods, Ash spies a Treecko.  He's wanted to catch a Treecko since he first saw one at Professor Birch's laboratory.  He follows the Treecko to an enormous tree that seems to be dying.  There, Ash's Treecko has an argument with all of the other Treecko.  It seems that Ash's Treecko is very attached to the tree and wants to stay with it, while the rest of the clan wants to move on to a new tree.  Ash watches as the lone Treecko struggles to save the tree.  He and Pikachu feel badly for the Treecko and try to help.  In the end, however, the tree dies and falls.  Now that its home is gone, Treecko is ready to make a new home with Ash.  He and Pikachu battle, and Ash catches his Treecko!\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "323",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "7",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "I Feel Skitty!",
+            "firstAired": "2004-10-23",
+            "id": 208641,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While training for the Pokemon contest in Fallabor Town, May encounters a Skitty, a Pokemon known for it's cuteness. While determined to add Skitty to her team, May notices that Skitty is upset at having lost it's scent and listening to Brock's advice, takes it to a Pokemon Aromatherapy center. However it isn't long until Team Rocket have their eye on Skitty, while Meowth falls in love with the cute Pokemon.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "375",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "8",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Its Still Rocket Roll to Me",
+            "firstAired": "2005-10-29",
+            "id": 208693,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "As they finally arrived in front of the gym, a pretty young lady runs from the door and runs out. Ash stops her and asks about the Gym Leader of the town. The pretty lady with glasses tells them that the gym leader is at the Space Center and it seems that the woman is the mother of the Gym Leader. Max glasses shine and it seems that Max knows a lot about it. \\\r\\\n"
+        },
+        {
+            "absoluteNumber": "429",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "9",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "On Olden Pond",
+            "firstAired": "2006-09-30",
+            "id": 315811,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On the way to the Battle Dome, Ash and the others decide to stop at a famous fishing spot for the day. However, the lake is deserted. They find out from the owner of a fishing house, Tiffany, that a company wants to buy the lake and turn the land into a resort. In order to scare people away from the land so Tifanny and her Grandma get no business, the leader of the comapny uses his Crawdaunt to terrorize the lake. When Tiffany fins out, she challenges his to a battle. The next day Ash prepares to fight him for the future of the lake.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 7,
+            "airedSeason": "0",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Jirachi Wish Maker (Movie 06)",
+            "firstAired": "2003-07-19",
+            "id": 362535,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Once every thousand years when the Millennium Comet is visible in the night sky, Jirachi awakens from his slumber. But when he awakens this time at a traveling circus, he's got a whole new set of friends by his side: Ash, Pikachu, Max, and the whole gang. But soon, they must rescue Jirachi from the clutches of an evil magician and former scientist named Butler who want to harness Jirachi's incredible energy to bring to life one of the most legendary and powerful Pokémon of all!"
+        },
+        {
+            "absoluteNumber": "476",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "10",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Like It or Lup It!",
+            "firstAired": "2007-06-13",
+            "id": 316033,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and Brock help Dawn train for an upcoming contest. However, her planned appeal always makes Piplup dizzy and it always fails. While they prepare to eat lunch, Team Rocket finds a pile of berries belonging to a Golduck, Wooper, Quagsire, and Poliwag, and steal them. When some of these berries wind up with some Ludicolo, Golduck begins to yell at the Ludicolo. Team Rocket attacks Golduck and sends it flying so that Ludicolo will join there side. Soon, Piplup winds up leading the Golduck to fight the Ludicolo and Team Rocket in what will be a Water Pok�mon showdown!"
+        },
+        {
+            "absoluteNumber": "527",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "11",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Luxray Vision",
+            "firstAired": "2008-05-31",
+            "id": 362794,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends are lost while on the trip to Solaceon Town. They find a mansion nearby and decide to check it out. When they approach they are attacked by an young girl named Marble, her Luxray, and a bunch of security guards, who believe they are thieves. The owner comes out and the misunderstanding in resolved. The owner, Matthew, reveals that three criminals want to steal his treasure the Old Charm, at 8:00. Ash, Dawn, and Brock agree to help out. It turns out that Team Rocket are the thieves, and they make off with the treasure. Their plan ends abruptly when their balloon pops and crash lands in another part of the mansion. Everyone heads to get there, but Team Rocket falls prey to the mansion's traps. Now it is up to Ash, Dawn, Brock, and Marble to find Team Rocket and get the Old Charm back, but with a mansion full of traps and a disobedient Luxray, that may be harder then planned."
+        },
+        {
+            "absoluteNumber": "579",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "12",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Saving the World from Ruins",
+            "firstAired": "2009-06-20",
+            "id": 788241,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash, Dawn, and Brock, along with their new friend Riley search for the source of the mysterious waves affecting the Steel Pokémon, and find Team Galactic. What is Team Galactic's plan, and what do they want with the ruins on Iron Island?"
+        },
+        {
+            "absoluteNumber": "632",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "13",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Piplup, Up and Away!",
+            "firstAired": "2010-07-17",
+            "id": 2454711,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Piplup is getting sick and tired of being constantly hit by Gible's failed Draco Meteor attacks. Fed up, Piplup runs away, and heads towards Professor Rowan's lab. Will Dawn be able to find her beloved Pokémon?"
+        },
+        {
+            "absoluteNumber": "666",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "14",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Snivy Plays Hard to Catch!",
+            "firstAired": "2010-10-28",
+            "id": 3827701,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While on the way to the next Gym, Ash, Iris, and Cilan stop to take a break. While eating a Snivy comes by and starts eating their food. They try to stop it but it uses Attract to stun Pikachu and cause other mischief. What will they do to stop it. "
+        },
+        {
+            "absoluteNumber": "750",
+            "airedEpisodeNumber": 7,
+            "airedSeason": "15",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Battling Authority Once Again!",
+            "firstAired": "2012-08-23",
+            "id": 4376319,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash, Cilan, Iris, Dawn and Trip make it through the first round of the cup. In the second round Iris and Dawn face off against each other. Iris’ Dragonite continues to not listen to her commands. Trip and Cilan face off against each other in the Semi finals."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 7,
+            "airedSeason": "16",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Giving chase at the Rhyhorn race!",
+            "firstAired": "2013-11-21",
+            "id": 4709581,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash is introduced to the world of Rhyhorn racing, and Serena, whose mother is a famous Rhyhorn racer, coaches Ash in the upcoming race. Meanwhile, Team Rocket has their sights on capturing Pikachu and the Racing Rhyhorn. "
+        },
+        {
+            "absoluteNumber": "580",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "12",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Cheers on Castaways Isle!",
+            "firstAired": "2009-06-27",
+            "id": 821401,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends decide to take a boat to the location of the next contest. On the ride Team Rocket appear and steal Pikachu and Piplup. They manage to escape but they wind up on a deserted island. Will they be able to make it back to their trainers?"
+        },
+        {
+            "absoluteNumber": "8",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "1",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Path to The Pokémon League",
+            "firstAired": "1997-05-20",
+            "id": 208325,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "After receiving his second badge, Ash sets off triumphantly for Vermilion City. Along the way, they hear of a trainer named A.J.-a fierce-Pokémon-trainer who has never lost a match. Full of self-confidence from his own record of ten victories in a row, Ash heads directly for the gym to find his new opponent. When they arrive, a huge bulletin in front of the gym announcing, \"This Gym Not Authorized by the Pokémon League\" along with a neon sign declaring \"98 Consecutive Victories\" appeal to Ash's over-confidence. A.J. is on the brink of achieving his goal of 100 straight victories, after which he will embark on a journey to gather badges. Will victory fall on the side of Ash and his 10 straight victories or with A.J. and his string of 98? In the process, will Ash learn some important lessons about the bonds between Pokémon and trainer?"
+        },
+        {
+            "absoluteNumber": "90",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "2",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "In The Pink",
+            "firstAired": "2000-02-12",
+            "id": 208407,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "A raging whirlpool whisks our heroes to top-secret Pinkan Island, a magical place where sheer cliffs and special berries have created a plethora of pink Pokemon. Tracey's Pokemon watching skills are put to quite a test, while Ash's attempts at observing lead to trouble for both his friends and a feisty pink Rhyhorn. Officer Jenny and Professor Oak must explain to the gang why scientists alone are allowed on the island: poachers would run wild in such a unique environment. Have some found their way to Pinkan already?\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "126",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "3",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Snubbull Snobbery",
+            "firstAired": "2000-11-18",
+            "id": 208443,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While walking through the middle of town, our friends notice that it is full of huge mansions. Apparently, Palm Hills is famous for its sprawling estates and sweeping lawns. Ash, Misty and Brock then come across a very large mansion and stand at the gate in complete amazement. While gazing at this majestic mansion, three butlers are seen in the background searching for something.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "167",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "4",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Hassle in the Castle",
+            "firstAired": "2001-09-29",
+            "id": 208484,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Team Rocket breaks into a castle clinic where Pokemon are used to cure patients and end up throwing themselves and Brock into maze in the basement.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "219",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "5",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Perfect Match!",
+            "firstAired": "2002-11-02",
+            "id": 208536,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and Misty each emerge victorious from arduous bouts only to be paired against one another in the next round. As these two square off, Team Rocket plots to steal the tournament's prize using reverse psychology: they leave an anonymous tip with the local police force that the prize is in danger. This tip, Jessie reasons, will lead to heightened security, which will in turn lead to overconfidence and carelessness, effectually making it easier for Jessie and James to sneak in and claim their prize. With Ash already in strong position, Misty accidentally deploys Psyduck to face his Kingler. In a surprise turn, however, Psyduck launches a Confuse attack that wins the match for Misty. Ash takes his place in the stands and cheers for Misty as she begins her next round. Meanwhile Team Rocket watches in shock as-contrary to Jessie's plan-not only is the police presence at the event fortified, but the police show no sign of growing overconfident.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "284",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "6",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "A Tail with a Twist",
+            "firstAired": "2003-12-06",
+            "id": 208601,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash's newly caught Treecko may be a bit standoff-ish, but the little green Pokémon is quite a fighter.  When Team Rocket sees Treecko knocked down and hurt by a Seviper, they decide that they must have that Seviper.  Jessie is very impressed with its \"sneaky, snakey ways.\"  Meanwhile, Treecko escapes from the Pokémon Center where Ash brought it to recover.  When the gang finds Treecko, it is practicing its attack moves.  Again and again, Treecko jumps from the top of a waterfall and tries to break a rock at the bottom with its tail.  Ash is very impressed with the rigor of its training.  All of Treecko's hard work appears to have paid off - when Team Rocket attacks and catches Pikachu with the help of their new Seviper, Treecko is able to save the day.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "324",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "7",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "ZigZag Zangoose!",
+            "firstAired": "2004-10-23",
+            "id": 208642,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Still on the way to Fallabor Town, Ash and friends encounter their friend Nicolai, who now has a Zangoose in his team. However Team Rocket attack during the battle, but the plan to capture Pikachu is forgotten when Zangoose and Seviper begin a fierce battle stemming from animosity between the two species. When Zangoose is injured, Nicolai tends to his injured Pokemon, while Jessie turns Pokemon trainer to Seviper for the inevitable rematch...\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "376",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "8",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Solid as a Solrock",
+            "firstAired": "2005-11-05",
+            "id": 208694,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Outside of the Gym, Team Rocket was there trying to plan something. It seems that they're planning to steal Solrock and Lunatone. If they steal them, Giovanni will be pleased. As the gang is happy, they are excited to go inside but James stops Meowth and Jessie and he makes them remember the power of Lunatone.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "667",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "14",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Saving Darmanitan From the Bell!",
+            "firstAired": "2010-11-04",
+            "id": 3991431,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While stopping for lunch by a river, Pikachu and Axew's food suddenly goes missing. Everyone begins to search around and they find a Darumaka eating the food. They give chase but lose it and get lost. "
+        },
+        {
+            "absoluteNumber": "430",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "9",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Tactics Theatrics!!",
+            "firstAired": "2006-09-30",
+            "id": 315812,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash finally arrives at the Battle Dome ready for his next Frontier Battle. After a little press conference Ash finally begins his battle against the Frontier Brain, Tucker. The battle will be a double battle, which Tucker uses Swampert and Arcanine for. Ash chooses Swellow and Corphish and the battle begins. The battle quickly goes in Tucker's favor as his Pokémon are very skilled at combinations together.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 8,
+            "airedSeason": "0",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Destiny Deoxys (Movie 07)",
+            "firstAired": "2004-07-17",
+            "id": 362536,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Four years ago a strange meteorite crashed to earth carrying a powerful secret. Now, a journey to Larousse City will reveal secrets as Ash, Pikachu, and the gang meet Tory -- a new friend who is afraid of Pokémon and their trainers. New fears arrive when a mysterious aurora appears over the city along with Deoxys. When a spectacular battle between Deoxys and Rayquaza begins, more than just Ash and Pikachu will be needed to stop it."
+        },
+        {
+            "absoluteNumber": "477",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "10",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Gymbaliar",
+            "firstAired": "2007-06-14",
+            "id": 316034,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Team Rocket open a Gym in hopes of scamming people of their Pokemon. However, Jessie can not win a single match. Her luck changes when a Croagunk follows Meowth from the store, and soon she is winning every battle. Ash and friends run into a girl name Minnie and she is headed to the Gym. Ash decides to go with her. When Minnie loses, she lets them take her Scizor to train it. However, this is Team Rocket's plan, to steal the Pokemon. However, when Ash wins they steal Pikachu and run. Can Ash get Pikachu and all the other Pokemon back, and what surprise does Croagunk have in store?"
+        },
+        {
+            "absoluteNumber": "528",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "11",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Journey to the Unown!",
+            "firstAired": "2008-06-07",
+            "id": 362795,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends arrive in Solaceon Town for Dawn's next contest. Dawn is training and shows off Aipom's new move, Double Hit. Brock reveals that this means Aipom is close to evolving. Soon Kenny arrives and reveals his new Breloom. Ash wants to battle him, and Kenny agrees. During the battle Kenny shows off the move Energy Ball, which Ash immediately wants to teach Turtwig. Kenny agrees and the battle is called off to begin training. Meanwhile Team Galactic Commander Saturn as his two henchman arrive at the Sloaceon Ruins and retrieve a special cube, and before leaving, they upset all of the ruins' Unown. Ash, Dawn, Brock, and Kenny arrive at the ruins, and are then unexpectedly caught in the Unown's warped dimension and must figure out a way to stop them."
+        },
+        {
+            "absoluteNumber": "633",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "13",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Flint Sparks the Fire!",
+            "firstAired": "2010-07-24",
+            "id": 2491341,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends have finally arrived in Sunyshore City, where Ash will challenge the Gym Leader and try to win his eighth badge. However, something is wrong with Volkner, the Gym Leader, and he does not seem interested in battling at all. However, his friend, Flint of the Sinnoh Elite Four has an idea to rekindle his spirit. "
+        },
+        {
+            "absoluteNumber": "751",
+            "airedEpisodeNumber": 8,
+            "airedSeason": "15",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Ash, Iris and Trip: Then There Were Three!",
+            "firstAired": "2012-08-30",
+            "id": 4376320,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "After beating Cilan, Trip moves onto the finals. The battle between Ash and Iris is under with Ash’s Krokorok against Iris’s Dragonite."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 8,
+            "airedSeason": "16",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Grooming Furfrou!",
+            "firstAired": "2013-11-28",
+            "id": 4709582,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "In the next town, the guidebook reveals that it is home to Charisma Trimmers, people whose expertise is styling the Pokémon Furfrou. Jessica, a Charisma Trimmer in training, is having problems with her confidence, which is only exacerbated by the expert Charisma Trimmer Moussalli, but she is not all who she appears to be. "
+        },
+        {
+            "absoluteNumber": "581",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "12",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Hold the Phione!",
+            "firstAired": "2009-07-04",
+            "id": 821411,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends arrive in the town where Dawn will enter her next Pokémon Contest. They find out that a lot of people have come to the town in order to see the legendary Pokémon Phione, who lives in the surrounding sea. Legend has it that anyone who sees Phione will have good luck, so Dawn decides to try and catch a glimpse of it."
+        },
+        {
+            "absoluteNumber": "9",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "1",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The School of Hard Knocks",
+            "firstAired": "1997-05-20",
+            "id": 208326,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Our three heroes have lost their way in the depths of a dense wood, shrouded in thick, white mist. Momentarily giving up, they decide to break for a brief rest. As Ash wanders deeper into the wood, searching for firewood, he happens across a young boy being bullied by five classmates gathered around him. Eavesdropping on their conversation, Ash learns that the boys are attending the Pokémon Seminar (or 'Pokémon Zem' for short) - a preparatory school for Pokémon trainers. Graduates from the Pokémon Seminar are automatically qualified to participate in the Pokémon League without undergoing any actual test of skill. Although many children dream of entering the illustrious Seminar (or rather their parents dream of them entering), only the most wealthy children can enter the school. But there must be a reason for the gloom overshadowing the faces of the students of this aristocratic school.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "91",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "2",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Shell Shock",
+            "firstAired": "2000-03-04",
+            "id": 208408,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Aboard Lapras, the group follows a news crew to an uninhabited island, where a scientific expedition is underway after the discovery of a fossilized Kabuto. A series of natural disasters place our heroes in mortal danger, with only the power of their Pokemon to help them. What is the secret of the Kabuto, and who wants that secret to remain hidden?\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "127",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "3",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Little Big Horn",
+            "firstAired": "2000-11-18",
+            "id": 208444,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Brock saves a lost and frightened Stantler fawn and carefully nurses it back to health before releasing it. Little does he know that Team Rocket lies hidden nearby, waiting to capture the defenseless fawn.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "168",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "4",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Two Hits and a Miss",
+            "firstAired": "2001-09-15",
+            "id": 208485,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Walking along a twisted path on their way to Ecruteak City, Ash, Misty, and Brock feel a loud noise and a slight rumbling coming from behind them. It happens to be a runaway Tauros, with its trainer in close pursuit. After nearly avoiding being trampled, Ash spots an unsuspecting old man down the road. Knowing the man is in real danger, Ash slides down the hill to save him.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "220",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "5",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Plant it Now... Diglett Later",
+            "firstAired": "2002-11-09",
+            "id": 208537,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "A village of kind, elderly people prepares a great meal for Ash and friends, and in return requests that the Pokémon Trainers assist them in defending their village against a gang of marauders that invades the village every year and attempts to rustle their sizable herd of Diglett.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "285",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "6",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Taming of the Shroomish",
+            "firstAired": "2003-12-06",
+            "id": 208602,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash, May, Brock and Max have arrived at a small city on their way to Rustboro City.  Brock decides to stock up on supplies, while Max is eager to go hunting for city dwelling Pokémon.  Max soon stumbles upon a very frightened Shroomish who is hiding in an alleyway.  Ash, Max, Pikachu and their new Shroomish friend head off to find a Pokémon Center.  On their way they pass by a deserted mansion that is being torn down.  There, the gang learns that not long ago most of the city was forest and that many, many Shroomish lived in the area.  They also learn that strange things are going on at the mansion, and many people believe that it's haunted.  A little investigation reveals that the mansion is actually inhabited by all of the Shroomish who used to live in the forest.  When the forest was destroyed, they had nowhere else to go.  All of the strange noises and smells that the construction workers were hearing were actually the Shroomish!  The grandson of the owner decides to tear down the mansion as planned, but to convert all of that land into a forest for the Shroomish.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "325",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "7",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Maxxed Out!",
+            "firstAired": "2004-10-30",
+            "id": 208643,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Stopping at a Pokemon Center on their way to Fallabor Town, the gang is surprised when a kid enters who looks like an older version of Max (they even have the same name). While the two boys don't get on at first, they are forced to work together to stop Team Rocket from catching Surskit, a Bug/Water Pokémon which can glide across water.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 9,
+            "airedSeason": "0",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Lucario and the Mystery of Mew (Movie 08)",
+            "firstAired": "2005-07-16",
+            "id": 315865,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "500 years ago, Sir Aaron was marked as a hero for saving the kingdom of Auray when two opposing armies nearly destoyed it in a war. Now, a festival is held every year in honor of Sir Aaron's deed. After winning a tournament competition, Ash is selected to be this year's Aura Guardian. When a mysterious woman by the name of Kid tracks down Mew, Mew disappears and takes an injured Pikachu and Meowth to the Tree of Beginnings. At the same time, Lucario is set free from the staff Ash holds, mistaking Ash for Aaron. Lucario reveals that Aaron was no hero and abandoned the queen, along with trapping him in the staff. Now, Ash must rely on Lucario's help if he's to make it to the Tree of Beginnings and find Pikachu. Kid tags along too, only wanting to learn Mew's connection to the tree. However, their adventure will cause more damage than intended, and the truth of the events of 500 years ago will finally be revealed!\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "668",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "14",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Bloom Is on Axew!",
+            "firstAired": "2010-11-11",
+            "id": 3991441,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On the way to Nacrene City, Axew wanders off to get some apples and ends up trapped in the horms of the bug pokémon Scolipede. The Pokémon begins rampaging and now everyone must find a way to stop it and get Axew back. "
+        },
+        {
+            "absoluteNumber": "431",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "9",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Reversing The Charges",
+            "firstAired": "2006-10-07",
+            "id": 315813,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On their way to the Battle Pike, Ash and friends encounter an Elekid with an attitude problem. Lately, the mountains where Elekid lives have been struck by tons of lightning, which has caused Elekid to absorb it and go crazy. Following an attack, May's Egg becomes stuck in Elekid's antenna and it runs off. Now they must get the egg back! However, Elekid attacks Team Rocket and separates James from Mime Jr! Now, May's egg is with Team Rocket and Mime Jr is with May! Can Ash and the others stop Elekid from attacking more Pokémon and save May's Egg?\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "478",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "10",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Setting the World On Its Buneary!",
+            "firstAired": "2007-06-18",
+            "id": 316035,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While everyone is getting ready for breakfast, Dawn is in the middle of a hair fiasco, which eventually gets solved with Bubblebeam from Piplup. Before breakfast, Dawn once again fails at capturing a Buneary. During breakfast Dawn leaves to chase it down, but Buneary freezes everyone (minus Pikachu, Starly, and Croagunk), and bounces away with Pikachu. Team Rocket then decides to capture the pair of Pokemon."
+        },
+        {
+            "absoluteNumber": "529",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "11",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Team Shocker!",
+            "firstAired": "2008-06-14",
+            "id": 362796,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "The day of the Solaceon Contest has finally arrived, and Dawn, Kenny, and Jessie are all determined to win. As the contest gets underway, all of them pull off dazzling appeals. When the final eight are selected, Dawn is not included. Dawn congratulates Kenny and Jessie. The final match comes down to Kenny and Jessie, and in a startling upset, Jessie defeats Kenny and wins her first ribbon. Kenny leaves town for the next destination that evening, while Dawn begins to sulk, trying to figure out why she keeps losing. The next day Zoey shows up and is ready to get Dawn back to winning form."
+        },
+        {
+            "absoluteNumber": "634",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "13",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Fleeing Tower of Sunyshore!",
+            "firstAired": "2010-07-31",
+            "id": 2491351,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash is finally going to battle Volkner, the Gym Leader of Sunyshore City so he can get his eighth badge and qualify for the Sinnoh League. However, a mysterious power outage occurs, canceling the battle. Everyone heads to Sunyshore Tower, the source of the city's power, but it has disappeared! Now they must somehow trace it and bring it back. "
+        },
+        {
+            "absoluteNumber": "377",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "8",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Shaking Island Battle! Barboach VS Whiscash!!",
+            "firstAired": "",
+            "id": 2323031,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "This episode was set to air on the regular schedule but was pulled out of the line-up because many people were killed in earthquakes a few weeks before the episode's due air date."
+        },
+        {
+            "absoluteNumber": "752",
+            "airedEpisodeNumber": 9,
+            "airedSeason": "15",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Goodbye, Junior Cup - Hello Adventure!",
+            "firstAired": "2012-09-06",
+            "id": 4453904,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "It’s the final battle of the Junior Cup with Trip facing off against Alder. Dawn leaving for the Wallace Cup in Unova. Ash and Dawn have a battle before she leaves."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 9,
+            "airedSeason": "16",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Clemont's Got a Secret!",
+            "firstAired": "2013-12-05",
+            "id": 4709583,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Upon returning to Lumiose City, the group meets up with Clemont's and Bonnie's father Meyer who reveals to Ash and Serena that Clemont is Lumiose City's Gym Leader. Meyer also reveals that the Clembot, a robot Clemont had built to look after the gym in his absence, has gone haywire. Ash and Clemont infiltrate the gym to beat the Clembot in a Pokémon battle to take back the Lumiose Gym. "
+        },
+        {
+            "absoluteNumber": "582",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "12",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Another One Gabites the Dust!",
+            "firstAired": "2009-07-11",
+            "id": 821421,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Dawn is getting ready to participate in her next contest. She meets a girl with a Gabite who is not so friendly. She believes that Dawn's victory in the Wallace Cup was pure luck and is determined to defeat Dawn. Dawn is now determined to defeat her and prove that her win was not just luck."
+        },
+        {
+            "absoluteNumber": "10",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "1",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Bulbasaur and the Hidden Village",
+            "firstAired": "1997-06-03",
+            "id": 208327,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Still lost, the party continues to wander. Falling from a rope bridge, stumbling into pitfalls, being caught in various traps, they struggle on until reaching a village, not shown on their map, inhabited by Pokemon that have been injured in battle or abandoned by their masters. In this village, a kind-hearted young woman named Melanie cares for these Pokemon. Even as our heroes, touched by Melanie’s kind example, attempt to assist her in caring for the Pokemon, Team Rocket is slowly making its way toward the village. A combined effort of Melanie and Ash’s Pokemon is needed to battle and defeat Team Rocket, and as a result, Ash’s courage earns him a battle between Pikachu and Melanie’s bravest Pokemon, Bulbasaur. Will Pikachu defeat Bulbasaur, thus increasing Ash’s collection of Pokemon?"
+        },
+        {
+            "absoluteNumber": "92",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "2",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Stage Fight",
+            "firstAired": "2000-02-12",
+            "id": 208409,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash, Misty, and Tracey buy tickets to the Pokémon Showboat, a wonderful carnival where Pokémon can speak and perform plays! A young actress from the performance has been having problems with her Raichu ever since it shocked her early in their relationship. Ash and Pikachu may be able to help. Of course, they'll have to deal with Team Rocket first, as they attempt to steal all the talking Pokémon.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "128",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "3",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Chikorita Rescue",
+            "firstAired": "2000-11-25",
+            "id": 208445,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash encounters a wild Chikorita and engages it in battle, thinking to add it to his team, but as Team Rocket watches the battle from afar, they decide the Chikorita would be better suited to their own nefarious uses.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "169",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "4",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "A Hot Water Battle",
+            "firstAired": "2001-09-22",
+            "id": 208486,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Chikorita, Cyndaquil and Totodile are fighting with each other when they tumble into a passage beneath the jungle where Team Rocket member Meowth is also trapped. The unlikely foursome must work together to save themselves.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "221",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "5",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Hi Ho Silver... Away!",
+            "firstAired": "2002-11-16",
+            "id": 208538,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "The gang has decided to explore the rest of the remaining unseen Whirl Islands and  reach a town, in which everything is shaped after the Silver Feather.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "286",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "6",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "You Said a Mouthful!",
+            "firstAired": "2003-12-13",
+            "id": 208603,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "En route to Rustboro City, Ash and the gang pass by an unofficial gym boasting the world's most powerful Pokémon.  Even though he can't win a badge there, Ash is intrigued and decides to battle the trainer named Anthony and this mysterious Pokémon.  The world's most powerful Pokémon turns out to be a Pelipper.  Pelipper attacks Ash's Treecko with a Vine Whip.  It then attacks Taillow with Flame Thrower.  Finally, it attacks Pikachu with a Thunder Attack.  Ash and crew are amazed – Pelipper should only have Water and Flying type attacks, but somehow it knows Grass, Fire and Electric type attacks!  That's not physically possible!  Team Rocket decides that they must have this awesome Pokémon, so they, too, challenge Anthony.  This time, however, Anthony panics and the truth comes out.  Pelipper has been hiding Poké Balls inside its large beak.  Rather than being disappointed, Team Rocket decides that this is an excellent opportunity.  They blackmail Anthony and use his Pelipper for a new challenge.  This time, trainers will lose their Pokémon if they lose to Pelipper.  Team Rocket's latest hoax is very successful at first, and they con many trainers out of their Pokémon, but they soon get carried away.  They fill Pelipper's beak up with so many Poké Balls that when Pelipper does a Water Gun attack, all of the Poké Balls spill out!!!\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "326",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "7",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Pros and Con Artists",
+            "firstAired": "2004-10-30",
+            "id": 208644,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "The gang have finally arrived in Fallabor Town so May can compete in her next contest. May is excited about the prospect of her Beautifly winning the competition and a ribbon, while all Brock wants to do is meet the female coordinators. However the gang encounter Grace, another competitor in the contest who is going to use her Medicham, known for it's fighting and psychic abilities. Things become even more intense when May's rival Drew turns up with his Roselia announcing he is to enter as well...\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "378",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "8",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Vanity Affair",
+            "firstAired": "2005-11-12",
+            "id": 208695,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "After his victory over Tate and Liza, Ash starts to do his training again for the next Gym Leader which in Sootopolis City. In the middle of the city, two guys are battling. Ash and a guy are training their Pokemon. It's Scizor Vs. Torkoal. Since Torkoal has the advantage over Bug type Pokemon, May and Max are very glad. After the fierce fire attack from Torkoal to Scizor, it faints and Ash is declared as the winner. After the battle, Ash's opponent comes to him and congratulates him. Behind the alley, a strange sea captain appears.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "669",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "14",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "A Rival Battle for Club Champ!",
+            "firstAired": "2010-11-18",
+            "id": 3991451,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On the way to the next city Ash and his friends run into Trip again. Determined to prove that his previous loss was just a fluke, Ash challenges him to a battle. Trip accepts and the two get ready to have a five-on-five battle. "
+        },
+        {
+            "absoluteNumber": "432",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "9",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Green Guardian",
+            "firstAired": "2006-10-07",
+            "id": 315814,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On their way to the Battle Pike, Ash and friends decide to ride along Cycling Road. However it is closed and they must go through the forest below. After hearing a noise, Pikachu wanders away and finds an injured Celebi under some thick vines. Ash and the others then meet up with the Pokémon Ranger Solana who agrees to help them find Pikachu. When they finally find Pikachu and Celebi, the reunion is short-lived as Team Rocket attacks wanting Celebi for themselves!\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "479",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "10",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Not on MY Watch Ya Don't!",
+            "firstAired": "2007-06-19",
+            "id": 316036,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends finally arrive in Jubilife City, and Dawn is ready for the upcoming Pokemon  Contest. However, she wants to go get a Poketch for the contest, but they are all gone! At a street corner, Team Rocket disguised as clowns are giving free ones out, and Dawn, Ash, and Brock take one. At a park, a boy comes up to them and reveals that they are fake. It turns out that the fake ones are a scheme to hypnotize the Pokemon of the trainers who took one and capture. However, Ash, Dawn, and Brock soon catch onto this and plan to stop Team Rocket."
+        },
+        {
+            "absoluteNumber": "530",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "11",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Tanks for the Memories!",
+            "firstAired": "2008-06-21",
+            "id": 362797,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On the way to Veilstone City, Brock brings the group to the Mountain Hut Maid Café where they meet the owners, sisters Spring, Summer, and Autumn. The sisters show them how they produce the milk, which is where they learn that Autumn's Miltank, Ilta, does not like to listen. Brock agrees to help Autumn and Ilta, so Ash and Dawn decide to help Spring and Summer with the café in their absence. Brock then bestows all his breeding knowledge to help Autumn and Ilta get along and cooperate. Meanwhile, Team Rocket try to have their own café, but when that fails they decide to steal Ilta instead."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 10,
+            "airedSeason": "0",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Mystery Dungeon: Team Go-Getters Out of the Gate!",
+            "firstAired": "2006-09-08",
+            "id": 394459,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "A boy wakes up to find that he's been turned into a Squirtle and can now understand the Pokémon Language. He learns that disasters have been happening lately and rescue teams have been formed. He joins his friends Charmander and Chikorita on Team Go-Getters. They get an assignment where they must go to the Sinister Cave to find the older brother of a Pichu. However, they have rivals on the mission – Team Meanie, a team of mean Pokémon Ekans, Medicham, and Gengar. Will they be able to rescue Pikachu and beat Team Meanies?"
+        },
+        {
+            "absoluteNumber": "635",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "13",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Teaching the Student Teacher!",
+            "firstAired": "2010-08-07",
+            "id": 2491361,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "With Ash's Sunyshore Gym match delayed, Ash and friends head towards Lake Valor for the Grand Festival. They meet up with Dawn's mother Johanna who asks them to help out at a school. They help out, but things get hectic, especially when a kid takes a \"liking\" to Piplup. Dawn decides to use this time at the school to perfect some combos for the Grand Festival, while Jessie sets her sights on her fourth ribbon. "
+        },
+        {
+            "absoluteNumber": "753",
+            "airedEpisodeNumber": 10,
+            "airedSeason": "15",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Road to Humilau",
+            "firstAired": "2012-09-13",
+            "id": 4453905,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and his friends accompany a trainer named Cameron to Himalau City for his eighth gym badge. On the way there, Ash and Cameron get separated from Iris and Cilan and make their own way to Himalau City. Once they get there, Cameron challenges Marlon, the gym leader of the Himalau Gym."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 10,
+            "airedSeason": "16",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Mega-Mega Meowth Madness!",
+            "firstAired": "2013-12-12",
+            "id": 4781200,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Before heading to Cyllage City, the group decides to stop by the Sycamore Pokémon Lab. Team Rocket decides to kidnap Professor Sycamore, as well as Serena and Bonnie, to pry the professor's mind for the secrets behind Mega Evolution, while Ash and Clemont have to deal with a gluttonous little Chespin with a penchant for macarons. "
+        },
+        {
+            "absoluteNumber": "11",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "1",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Charmander: The Stray Pokémon",
+            "firstAired": "1997-06-10",
+            "id": 208328,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "As our heroes press on toward Vermilion City, they encounter a lone, weak Charmander at a mountain pass. Standing atop a stone, it appears to be waiting for someone. Ash immediately attempts to capture it, but fails. Giving up, Ash and friends head for a nearby Pokemon Center. There they run into Damien—the very boy who had abandoned the Charmander. A storm erupts. Our heroes go out in the middle of the night to rescue the deserted Pokemon. Their timing couldn’t be better for they saved the fiery Pokemon from an attack of vicious Spearow. Upon their return to the Pokemon Center, the Charmander is taken care of immediately, but the next morning he is gone, without a trace. Ash and friends go out to find him only to be side-tracked by the devious Team Rocket. Just when they thought they had captured Pikachu and rendered our heroes temporarily helpless, Charmander comes to the rescue. Will he ultimately become the next Pokemon to join Ash?"
+        },
+        {
+            "absoluteNumber": "93",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "2",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Bye Bye Psyduck",
+            "firstAired": "2000-02-26",
+            "id": 208410,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While Pikachu, Togepi and Psyduck are sleeping on Lapras' back, Psyduck slips off and into the water. They search, but cannot find him, until a girl named Marina comes by because her Tentacruel had found Psyduck. They notice the tail is glowing, and Marina says that's a sign it's going to evolve. Marina knows a lot about water Pokémon, as does Misty. The two girls decide to have a battle. During the battle, when Misty goes to use Psyduck, she notices the pokéball is empty. She asks Ash to throw her the bag, but he doesn't throw far enough and it lands in the water. When Misty goes to recover her bag, there is a Golduck hanging from it. She believes it to be hers and starts to use it in battle. Team Rocket intrude, and capture Marina's Tentacruel and Psyduck, but Team Rocket are defeated easily by Golduck. Misty then battles Marina with Golduck and wins. When Misty pulls out her pokéball for Golduck, her Psyduck comes out. They are all a little confused for a while until they realize it was a wild Golduck, simply it likes to show off for girls, as it sees three girls walking by, it runs off to meet them, leaving Misty behind.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "129",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "3",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Once In A Blue Moon",
+            "firstAired": "2000-12-02",
+            "id": 208446,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Professor Oak's errand - to deliver the mysterious GS Ball to a Pokéball expert - is interrupted when a Quagsire with a penchant for spherical objects steals the GS ball for use in a nocturnal ritual.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "170",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "4",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Hook, Line, and Stinker",
+            "firstAired": "2001-09-29",
+            "id": 208487,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Misty is eager to show off her fishing skills in a competition until she realizes that a rude, but skilled Poliwrath trainer, has also entered.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "222",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "5",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Mystery is History",
+            "firstAired": "2002-11-23",
+            "id": 208539,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and the gang have just gone through a cave, and decide to take a quick rest. The gang is surprised by another Pikachu!\\\r\\\n\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "287",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "6",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "A Bite to Remember",
+            "firstAired": "2003-12-13",
+            "id": 208604,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "As our heroes travel on towards Rustboro City, they stumble into a forest filled with many different kinds of Pokémon.  It turns out that the area is actually a Pokémon preserve, and it's looked after by a girl named Katrina.  Katrina takes care of all of the Pokémon in the area and helps to nurse them back to health when they are sick.  Max takes a particular liking to her Poochyena and he's determined to see it evolve before they leave the preserve.  All of the Poochyena's companions who were born at the same time have already evolved, but this one Poochyena just doesn't seem ready.  Max decides to coach the Pokémon and leads it out into the forest.  Team Rocket has followed Max and they decide to play a trick on him to take the Poochyena.  They claim to be researchers working on an evolution machine.  Max is too smart too be fooled, but that doesn't stop Team Rocket from taking Poochyena.  Luckily, Katrina and Ash show up just in time.  This time Poochyena gets in on the action, too.  That last battle turns out to be just what this little Poochyena needs – it evolves right before Max's eyes!\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "327",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "7",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Come What May!",
+            "firstAired": "2004-11-06",
+            "id": 208645,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "The contest begins and May is more determined to win than ever. With Ash, Brock and Max cheering her on, May and Beautifly soon find themselves progressing to the battle rounds against Drew and his Roselia, Grace and her Medicham  and a disguised (and cheating!) Jessie from Team Rocket and her Dustox.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "379",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "8",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Where's Armaldo?",
+            "firstAired": "2005-11-19",
+            "id": 208696,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "With Ash and the gang on a ferry, Max sees a nearby island to stop at and sightsee. Instead of going to the next Gym Leader and to the next Pokemon Contest Hall, May and Ash want to train their Pokemon first. They all go on the Island and start training. While in the forest, Max sees a Cradily. Eventually, everyone ends up in Professor Proctor's mansion. They see several fossil pokemon that have been brought back to life. Team Rocket steals an Armaldo. Will they be able to get it back?\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "670",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "14",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "A Home for Dwebble!",
+            "firstAired": "2010-12-02",
+            "id": 3991461,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On the way to Nacrene City, Ash and friends encounter the Pokémon Dwebble. However, this Dwebble does not have a rock on its back as it should. It begins to make a new shell, but then three more Dwebble show up and trouble starts. "
+        },
+        {
+            "absoluteNumber": "433",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "9",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "From Cradle to Save!",
+            "firstAired": "2006-10-14",
+            "id": 315815,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On the way to the Battle Pike, Ash and friends stumble across a ninja school. However, there have been thefts around the school lately and they are told to be alert. On one of their tasks, which is to find the teacher's Kecleon, Ash and another Ninja stumble across a Bonsly. Bonsly is quickly blamed for all of the recent thefts at the school but Brock quickly proves them wrong. Soon after, the real thieves, which is none-other than Team Rocket, show up to steal all of the Pokémon at the Ninja School!\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "480",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "10",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Mounting a Coordinator Assault",
+            "firstAired": "2007-06-20",
+            "id": 316037,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "The Jubilife contest is about to begin and Dawn is excited for her first contest. She comes across Zoey, a girl who will also be competing in the contest. While practicing with Ash, Aipom interferes in her battle and Dawn convinces Ash to join the contest. As the two get registered, Jessie will also be entering the contest with James' Carnivine, while James and Meowth sell fake seals. As the contest begins, Dawn is nervous while Ash and Jessie are confident. Can Dawn win her first contest?"
+        },
+        {
+            "absoluteNumber": "531",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "11",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Hot Springing a Leak!",
+            "firstAired": "2008-06-28",
+            "id": 362798,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Continuing the journey to Veilstone City, Ash is busy training Turtwig so it can perfect Energy Ball. Realizing that it is getting late, Brock insists that they get to the next town before it gets dark. Dawn says that instead they should go to a nearby hot springs hotel owned by her friend's family. They arrive there and Dawn introduces them to her childhood friend Leona. While they immediately jump into the hot springs, they find out that the water level is low and they are cold. Leona reveals that it happened just recently, and her parents went off to find out the reason. Ash, Dawn, and Brock agree to help her find the reason and head up into the mountains with her. They soon discover a fresh hot spring in the mountains. The hot spring was made by a disguised Team Rocket, who is tapping into Leona's pipeline, and now they must find a way to get the water back."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 11,
+            "airedSeason": "0",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Mastermind of Mirage Pokémon",
+            "firstAired": "2006-04-29",
+            "id": 394460,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash is personally invited to the lab of Dr. Yung to test out his new battle system. When arriving there he meets up with Misty and Professor Oak who were also invited. Dr. Yung appears and challenges both Misty and Ash to a battle. He easily defeats Misty, but his match with Ash is interrupted by a cloaked figure named Mirage Master. Mirage Master turns Dr. Yung’s experiments against him and captures him and Professor Oak! As Brock goes for help (and to get a date), Ash and Misty sneak into the castle to rescue the Professor while May and Max wait outside. However, Mirage Master seems strikingly familiar, is he possibly hiding something?"
+        },
+        {
+            "absoluteNumber": "636",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "13",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Keeping in Top Forme!",
+            "firstAired": "2010-08-14",
+            "id": 2590931,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Continuing on to the Grand Festival, Ash and friends find a girl named Marley in a river and swiftly bound for a waterfall. Brock rescues her, and they find out that a legendary Shaymin is with her, injured by a group of thugs who want to steal it. Team Rocket, who are the ones responsible, set out in an attempt to nab Shaymin once more. Ash and friends, knowing the danger, join Marley in helping to keep Shaymin safe while returning it to its friends. "
+        },
+        {
+            "absoluteNumber": "583",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "12",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Stealing the Conversation!",
+            "firstAired": "2009-07-18",
+            "id": 833821,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends arrive in a town where an Officer Jenny and her Chatot are working hard to find Team Rocket and arrest them. Jenny wants Ash and friends to help."
+        },
+        {
+            "absoluteNumber": "754",
+            "airedEpisodeNumber": 11,
+            "airedSeason": "15",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Unrest at the Nursery!",
+            "firstAired": "2012-09-20",
+            "id": 4453906,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and his friends help a nursery worker named Leila, they try to get a Vullaby and Rufflet to stop fighting with each other. Vullaby runs away from the Nursery and Cilan and Leila go look for it."
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 11,
+            "airedSeason": "16",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Bamboozling Forest!",
+            "firstAired": "2013-12-19",
+            "id": 4781202,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "While on their journey, the group stops for lunch when they are interrupted by two Pancham. However when Team Rocket attacks, the Pokémon get separated from their trainers. As Ash and his friends try to reach Pikachu, so does Team Rocket, but they cross paths with a Pangoro along the way. "
+        },
+        {
+            "absoluteNumber": "12",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "1",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Here Comes The Squirtle Squad",
+            "firstAired": "1997-06-17",
+            "id": 208329,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "A company of Squirtles stand in the path of our heroes' enthusiastic march. To make matters worse, joining forces with Team Rocket, the Squirtles capture Ash and friends. When the Squirtles lock Pikachu, who has been critically injured, in a cage, Ash runs to retrieve a healing Potion. Upon Ash's return, a battle ensues between Team Rocket and our heroes. When it becomes apparent that Team Rocket has deserted the Squirtles, and even endangered them, Ash and his love of Pokémon prevails, and saves a Squirtle from certain doom. Will Ash's kind and brave act go unnoticed by the Squirtle?\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "94",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "2",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Joy Of Pokémon",
+            "firstAired": "2000-03-04",
+            "id": 208411,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "As the group continue through the Orange Islands, they notice a Nurse Joy whizzing by in a kayak. They decide to follow it. They come to an island, and see a huge Magikarp. It is flopping around and Nurse Joy comes by to give it some calcium, then she throws it back in. Ash is hungry so, Nurse Joy invites them over for lunch. They then go for a kayak ride, except she gets too far ahead of them and when Ash, Misty and Tracey catch up they see her kayak empty, and get worried. They see a pink figure floating up, thinking it's Chansey, except it's really Jigglypuff, who they got away from before it sang. When Nurse Joy and Chansey pop up from helping a sick Cloyster, she invites them underwater to see her look it over. Ash begins to run out of breath and tries to get back above water, but can't because a Dewgong decides to start playing with Ash. They make it out okay, and back at the cabin, Nurse Joy tells them her story about when she found a sick Magikarp and decided to take care of it. She then decided to treat Pokémon around the islands rather than just work in a Pokémon center. She goes out to help some sick baby Seel as a hurricane is starting. Tracey goes out and Ash and Misty follow, they want to help her, but got washed out and she had to save them. After resting on a beach are trapped by Team Rocket. Magikarp comes to save them, evolves into Gyarados and beats them. They go off to help the baby Seel and are on their way to Navel Island.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "130",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "3",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Whistle Stop",
+            "firstAired": "2000-12-02",
+            "id": 208447,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "When Team Rocket attacks Ash and his friends, a brave young Trainer and her flock of Ledyba come to the rescue. With a bolt of electricity, Pikachu makes quick work of Team Rocket, but they look to capture a prize anyway: the same bolt from Pikachu sends one of the Good Samaritan's Ledyba flying right into their clutches.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "171",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "4",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Beauty and the Breeder",
+            "firstAired": "2001-10-06",
+            "id": 208488,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Brock returns the Vulpix to old friend Suzie and together they enter the Pokemon Breeder Competition. Team Rocket also registers and aims to win.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "223",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "5",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "A Parent Trapped!",
+            "firstAired": "2002-11-30",
+            "id": 208540,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "With the young Lugia in the possession of Butch and Cassidy, Ash and friends set about rescuing it while protecting its parent from itself.  The parent Lugia fights desperately to free its child-playing right into Team Rocket's hands.  If Ash fails to win the Lugia's trust and convince it not to oppose Team Rocket alone, it seems this Pokemon is fated to end up in captivity along with its child.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "288",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "6",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "The Lotad Lowdown",
+            "firstAired": "2003-12-20",
+            "id": 208605,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash, Pikachu, Brock, May and Max decide to cool off in a picturesque lake en route to Rustboro City.  But they're not the only one's splashing around!  The lake is actually home to a whole flock of Lotad.  The Lotad seem to be having fun with their new friends, but a little girl named Natalie thinks that Ash and crew are out of line.  She brings them back to the flower shop which her two older sisters run.  There, Ash and the gang learn all about berries and the effects that different berries have on Pokémon.  Brock promptly falls in love with the two older sisters, making little Natalie very jealous.  In fact, Natalie isn't the only one smitten with Brock – a quirky little Lotad seems to have taken a liking to him as well.  Natalie decides to win Brock's affection by finding a Sitrus Berry and she wanders off into the woods.  She finds one, but a Beedrill wants it, too!  Luckily, Brock arrives in time to save her from the Beedrill.  Meanwhile, Team Rocket has decided to catch all the Lotad in the lake and it's up to Brock's quirky Lotad friend and Pikachu to save the day.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "328",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "7",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Cheer Pressure",
+            "firstAired": "2004-11-06",
+            "id": 208646,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "With the Contest in Fallabor Town over, the gang are now headed to Lavaridge Town so Ash can battle for his next Gym Badge. However they soon re-encounter Kazuchi, who taught his Plusle and Minun the Helping Hand attack and as a result was invited to join a group of cheerleaders. Soon the gang are in the company of said cheerleaders and thier leader, but it seems this group aren't fair when it comes to Pokemon battles...\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "380",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "8",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "A Cacturne for the Worse",
+            "firstAired": "2005-11-26",
+            "id": 208697,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash, May, Max, & Brock head for Izabe Island for May's Next Contest. On the boat they meets Harley who is also in the contest. Harley gets mad at mad and says he will defeat her. After Getting past all of Harley's dirty tricks May manages to pull off a win and get a fourth ribbon.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "434",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "9",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Time Warp Heals All Wounds!",
+            "firstAired": "2006-10-14",
+            "id": 315816,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends finally arrive in Fuchsia City with the Battle Pike only a day away. May's egg then begins to glow signaling that it is ready to hatch. However, before she can celebrate her Squirtle runs off. May finds Squirtle at the train station with an old lady named Edna. Meanwhile, Team Rocket decides to divide and conquer to capture everyone's Pokémon. Back at the train station, Edna explains that she is waiting for her husband to return. Then Edna's granddaughter, Katrina, shows up and gets her Grandma to go home. Katrina tells May that many years ago Edna's husband, Jonathan, left for the big city in order to become a Pokemon Doctor. Edna tried to reach the station but the train left before she got there and she wishes it had just been snowing that day so she could have told Jonathan they were going to have a baby. One year later, he died in an accident but she refuses to believe it. She also tells May that Edna lost her pendant that day. When May and Squritle find the pendant, they, along with Meowth (who was following and listening to them), get transported back in time to that exact day, and decide to fix Edna's future by fixing the past by making sure that it starts to snow.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": null,
+            "airedEpisodeNumber": 12,
+            "airedSeason": "0",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Pokémon Ranger and the Temple of the Sea (Movie 09)",
+            "firstAired": "2006-07-15",
+            "id": 315855,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "On thier way through the Battle Frontier, Ash and friends meet up with a Pokémon Ranger who's mission is to deliever the egg of Manaphy to a temple on the ocean's floor. However, a greedy pirate wants the power of Manaphy to himself.\\\r\\\n"
+        },
+        {
+            "absoluteNumber": "481",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "10",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Arrival of a Rival!",
+            "firstAired": "2007-06-21",
+            "id": 316038,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "The battle rounds of the Jubilife contest are about to begin and Ash, Dawn, Jessie, and Zoey all make it to the finals. Tension rises quickly between Ash and Zoey when Zoey finds out that Ash also enters Gym Battles. Their battle is up first, and although Ash puts up a good fight, Zoey wins in the end. As the next semi-finals begin, Dawn must beat Zoey. Will she be able to beat Zoey and Jessie and win her first ribbon?"
+        },
+        {
+            "absoluteNumber": "532",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "11",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Riding the Winds of Change!",
+            "firstAired": "2008-07-05",
+            "id": 362799,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends stop to have lunch in a city while Ash continues to train Turtwig to master the move Energy Ball. They are suddenly interrupted by a group of Gligar and a Gliscor who swoop down on them and steal all of their food. While trying to decide what to do, Paul appears and scares the hoard off, revealing that he wants to capture Gliscor. Ash, Dawn, and Brock then run into Nurse Joy and Officer Jenny who reveal that Gliscor was trapped in the city due to recently strong winds, and its attempts at using sonar to escape attracted a group of Gligar. Ash, Dawn, and Brock agree to help them get the group of pok�mon back to the forest. Meanwhile, Team Rocket is planning a way to capture the pok�mon, while Paul plots on how to capture Gliscor, and Ash has a few encounters with a awkward Gligar."
+        },
+        {
+            "absoluteNumber": "637",
+            "airedEpisodeNumber": 12,
+            "airedSeason": "13",
+            "dvdEpisodeNumber": null,
+            "dvdSeason": null,
+            "episodeName": "Pokémon Ranger: Heatran Rescue Mission!",
+            "firstAired": "2010-10-16",
+            "id": 2590941,
+            "language": {
+                "episodeName": "en",
+                "overview": "en"
+            },
+            "overview": "Ash and friends encounter a Pokémon Ranger named Ben. They find out that the legendary Heatran has been disturbed and is now going on a rampage, and Ben is on a mission to calm it down. Meanwhile, Team Rocket decide to catch Heatran, eager for the legendary Pokémon's power."
+        }
+    ]
+}

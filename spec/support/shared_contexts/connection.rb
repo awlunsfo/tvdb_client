@@ -11,4 +11,10 @@ shared_context "Connection" do
   let( :connection ) {
     TVDB::Connection.new( host_url: connection_options[:host_url] )
   }
+
+  def authenticate_connection
+    valid_creds[:connection] = connection
+
+    TVDB::Authorization.new( valid_creds ).login
+  end
 end

@@ -18,16 +18,30 @@ class FakeTVDB < Sinatra::Base
   end
 
   get '/series/:id' do
-    if bad_auth_header?( request )
-      unauthed_json_response 
-    elsif params["id"] != 76703
-      not_found_json_response( params["id"] )
-    else
-      json_response 200, 'responses/series.json'
+    series_routes( request, params["id"], 'responses/series.json')
+  end
+
+  get '/series/:id/episodes' do
+    page = params["page"]
+
+    if page == "1" || !page
+      series_routes( request, params["id"], 'responses/series_episodes_page_1.json')
+    elsif page == "2"
+      series_routes( request, params["id"], 'responses/series_episodes_page_2.json')
     end
   end
 
   private
+
+  def series_routes( request, id, json_response_string )
+    if bad_auth_header?( request )
+      unauthed_json_response 
+    elsif id != '76703'
+      not_found_json_response( id )
+    else
+      json_response 200, json_response_string
+    end
+  end
 
   def json_response(response_code, file_name)
     content_type :json
