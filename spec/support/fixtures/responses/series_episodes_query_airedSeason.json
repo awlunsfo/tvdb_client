@@ -2,9 +2,9 @@
     "errors": null,
     "links": {
         "first": 1,
-        "last": 2,
+        "last": 1,
         "next": null,
-        "prev": 1
+        "prev": null
     },
     "data": [
         {
@@ -25,7 +25,7 @@
         {
             "absoluteNumber": null,
             "airedEpisodeNumber": 6,
-            "airedSeason": "16",
+            "airedSeason": "15",
             "dvdEpisodeNumber": null,
             "dvdSeason": null,
             "episodeName": "Battling on thin ice!",
@@ -36,21 +36,6 @@
                 "overview": "en"
             },
             "overview": "Ash challenges Viola to a rematch, now ready for Surskit's freezing strategy. "
-        },
-        {
-            "absoluteNumber": "7",
-            "airedEpisodeNumber": 7,
-            "airedSeason": "1",
-            "dvdEpisodeNumber": null,
-            "dvdSeason": null,
-            "episodeName": "The Water Flowers of Cerulean City",
-            "firstAired": "1997-05-13",
-            "id": 208324,
-            "language": {
-                "episodeName": "en",
-                "overview": "en"
-            },
-            "overview": "In his search to collect Trainer Badges, Ash heads for Cerulean City, intending to confront the Cerulean Gym Leader. For some reason, Misty expresses a desire to avoid Cerulean City and disappears somewhere along the way. Without concern for Misty, Ash and Pikachu continue toward the Cerulean City Gym. When they arrive, the exterior of the Gym gives the strange appearance of an aquarium. Upon entering the building, Ash and Pikachu are entranced by a synchronized swimming show being performed by three beautiful sisters. Could this truly be the Cerulean Gym? And what could be the role of the three beautiful swimming sisters? More importantly, will Ash be able to defeat the strangely absent Gym Leader to earn his next badge?\\\r\\\n"
         }
     ]
 }

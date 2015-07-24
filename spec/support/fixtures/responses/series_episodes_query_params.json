@@ -1,0 +1,12 @@
+{
+  "data": [
+    "airedSeason",
+    "airedEpisode",
+    "seriesId",
+    "imdbId",
+    "dvdSeason",
+    "dvdEpisode",
+    "absoluteNumber",
+    "page"
+  ]
+}

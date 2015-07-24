@@ -11,7 +11,7 @@ describe "TVDB::Authorization" do
     valid_creds
   }
 
-  let( :invvalid_init_options ) {
+  let( :invalid_init_options ) {
     invalid_creds[:connection] = connection
     invalid_creds
   }
@@ -45,7 +45,7 @@ describe "TVDB::Authorization" do
       end
 
       it "should not set a token upon failed login" do
-        failure = TVDB::Authorization.new( invvalid_init_options )
+        failure = TVDB::Authorization.new( invalid_init_options )
         failure.login
 
         expect( failure.connection.token.length > 1 ).to be( false )

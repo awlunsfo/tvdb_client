@@ -29,8 +29,8 @@ require 'tvdb_client'
 
 # Placeholder values
 credentials = {
-  :username => "some_user",     # username is optional
-  :userpass => "some_password", # userpass is optional
+  :username => "some_user",            # username is optional
+  :userpass => "some_password",        # userpass is optional
   :apikey   => "my_unique_api_key",
   :host_url => "https://tvdb.api.com"
 }
@@ -60,16 +60,7 @@ puts pokemon.data
 #    "genre"=>["Animation", "Children"],
 #    "actors"=>[],
 #    "overview"=>
-#     " A young boy named Ash Ketchum embarks on a journey to become a \"Pokemon   
-#     Master\" with his first Pokemon, Pikachu. Joining him on his travels are   
-#     Brock, a girl-obsessed Rock Pokemon Trainer, and Misty, a tomboyish Water   
-#     Pokemon Trainer who may have a crush on him. Ash and Co. end up traveling   
-#     through various regions, including Kanto, the Orange Islands, and Johto,   
-#     and then enter the Pokemon League competitions there. Along the way, they   
-#     run into many confrontations with Jessie, James, and Meowth, a trio of   
-#     Pokemon thieves who are apart of an evil organization called \"Team Rocket\".   
-#     But everytime Team Rocket try to do their evil deeds, they fail thanks to   
-#     Ash and his Pokemon.",  
+#     " A young boy named Ash Ketchum...",  
 #    "lastUpdated"=>1437155768,
 #    "airsDayOfWeek"=>"",
 #    "airsTime"=>"",

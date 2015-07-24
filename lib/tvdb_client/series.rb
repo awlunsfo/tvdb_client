@@ -1,38 +1,25 @@
 module TVDB
   class Series
     attr_accessor :connection
-    attr_reader   :data, :route
+    attr_reader   :data, :route, :series_id
 
-    def initialize( connection, series_id )
+    def initialize( connection, series_id, options = {} )
       @connection = connection
+      @series_id  = series_id
       @route      = "/series/#{series_id}"
 
-      get_series( series_id )
+      get_series( series_id, options )
     end
 
     def episodes( options = {} )
-      # TODO: Return an Episodes object instead of a hash.
-      # Episodes object will be able to handle .query()
-      connection.get( "#{route}/episodes", options ).body
+      params = {connection: connection, series_id: series_id, params: options }
+
+      TVDB::Series::Episodes.new( params )
     end
 
     def all_episodes
-      links      = connection.get( "#{route}/episodes" ).body["links"]
-      first_page = links["first"]
-      last_page  = links["last"]
-      threads    = Array.new
-      @all_eps   = Array.new
-
-      for page in first_page..last_page
-        threads << Thread.new( page ) do |page_num|
-          params   = { :params => { page: page_num } }
-          @all_eps << connection.get( "#{route}/episodes", params ).body["data"]
-        end
-      end
-
-      threads.each { |thread| thread.join }
-
-      return @all_eps.flatten
+      tr = TVDB::Service::Threading::ThreadedRequest.new( connection: connection )
+      tr.make_request( "#{route}/episodes" )
     end
 
     private
