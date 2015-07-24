@@ -21,6 +21,10 @@ class FakeTVDB < Sinatra::Base
     series_routes( request, params["id"], 'responses/series.json')
   end
 
+  get '/not/modified' do
+    not_modified_response
+  end
+
   get '/series/:id/episodes' do
     page = params["page"]
 
@@ -79,6 +83,12 @@ class FakeTVDB < Sinatra::Base
     content_type :json
     status 404
     "{\"Error\": \"ID: #{id} not found\"}"
+  end
+
+  def not_modified_response
+    content_type :json
+    status 304
+    ""
   end
 
   def bad_auth_header?( request )

@@ -125,6 +125,13 @@ describe "TVDB::Connection" do
           expect( subject.get( '/series/1234' ).code ).to be( 401 )
         end
       end
+
+      context '304 response' do
+        it "should an empty body for a 304 (not modified) response" do
+          expect( subject.get( '/not/modified' ).code ).to be( 304 )
+          expect( subject.get( '/not/modified' ).body ).to be( nil )
+        end
+      end
     end
     
   end

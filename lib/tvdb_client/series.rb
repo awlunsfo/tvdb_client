@@ -1,7 +1,7 @@
 module TVDB
   class Series
     attr_accessor :connection
-    attr_reader   :data, :route, :series_id
+    attr_reader   :data, :route, :series_id, :code
 
     def initialize( connection, series_id, options = {} )
       @connection = connection
@@ -27,6 +27,7 @@ module TVDB
     def get_series( series_id, options = {} )
       series = connection.get( route, options )
       @data  = series.body
+      @code  = series.code
     end
   end
 end
