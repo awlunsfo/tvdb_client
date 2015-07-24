@@ -31,13 +31,13 @@ describe "TVDB::Connection" do
       end
 
       it "should override default headers " do
-        custom_header = { "Content-Type" => "text/html" }
+        custom_header = { :headers => { "Content-Type" => "text/html" } }
 
         expect( subject.set_default_headers( custom_header )["Content-Type"] ).to eq( "text/html" )
       end
 
       it "should apply custom headers" do
-        custom_header = { "howdy" => "g'day mate" }
+        custom_header = { :headers => { "howdy" => "g'day mate" } }
 
         expect( subject.set_default_headers( custom_header )["howdy"] ).to eq( "g'day mate" )
       end     

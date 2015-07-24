@@ -24,11 +24,31 @@ class FakeTVDB < Sinatra::Base
   get '/series/:id/episodes' do
     page = params["page"]
 
-    if page == "1" || !page
-      series_routes( request, params["id"], 'responses/series_episodes_page_1.json')
-    elsif page == "2"
-      series_routes( request, params["id"], 'responses/series_episodes_page_2.json')
+    if params["id"] == "76703"
+      if page == "1" || !page
+        series_routes( request, params["id"], 'responses/series_episodes_page_1.json')
+      elsif page == "2"
+        series_routes( request, params["id"], 'responses/series_episodes_page_2.json')
+      end
+    elsif params["id"] == "99999"
+      series_routes( request, params["id"], 'responses/series_episodes_page_n.json')
+    else
+      not_found_json_response( params["id"] )
     end
+  end
+
+  get '/series/:id/episodes/query' do
+    aired_season = params["airedSeason"]
+
+    json_response 200, 'responses/series_episodes_query_airedSeason.json'
+  end
+
+  get '/series/:id/episodes/query/params' do
+    json_response 200, 'responses/series_episodes_query_params.json'
+  end
+
+  get '/series/:id/episodes/summary' do
+    json_response 200, 'responses/series_episodes_summary.json'
   end
 
   private
@@ -36,10 +56,10 @@ class FakeTVDB < Sinatra::Base
   def series_routes( request, id, json_response_string )
     if bad_auth_header?( request )
       unauthed_json_response 
-    elsif id != '76703'
-      not_found_json_response( id )
-    else
+    elsif id == '76703' || id == "99999"
       json_response 200, json_response_string
+    else
+      not_found_json_response( id )
     end
   end
 

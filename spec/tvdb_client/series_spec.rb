@@ -1,6 +1,5 @@
 require 'spec_helper'
 require 'json'
-require 'pp'
 
 describe "TVDB::Series" do
   include_context "Authentication"
@@ -35,19 +34,18 @@ describe "TVDB::Series" do
 
   describe "Series Episodes" do
     it "should return episodes in a series" do
-      expect( subject.episodes["data"] ).to be_a_kind_of( Array )
-      expect( subject.episodes["links"]["next"] ).to eq( 2 )
+      expect( subject.episodes.list["data"] ).to be_a_kind_of( Array )
+      expect( subject.episodes.list["links"]["next"] ).to eq( 2 )
     end
 
     it "should return the 2nd page of results" do
-      result = subject.episodes( :params => { page: 2 } )
-
+      result = subject.episodes( params: { page: 2 } ).list
       expect( result["links"]["next"] ).to eq( nil )
     end
 
     it "should be able to return all episodes for a series" do
-      page1 = subject.episodes( :params => { page: 1 } )["data"]
-      page2 = subject.episodes( :params => { page: 2 } )["data"]
+      page1 = subject.episodes( params: { page: 1 } ).list["data"]
+      page2 = subject.episodes( params: { page: 2 } ).list["data"]
 
       combined_pages = [page1, page2].flatten
 

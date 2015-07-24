@@ -18,28 +18,31 @@ module TVDB
 
       response = connection.post do |req|
         req.url( route )
-        req.headers = set_default_headers( options[:headers] )
+        req.headers = set_default_headers( options )
         req.body    = request_body.to_json
       end
 
       return parsed_response( response )
     end
 
-    def get( route, options = {} )      
+    def get( route, options = {} )
       response = connection.get do |req|
         req.url( route )
-        req.headers = set_default_headers( options[:headers] )
+        req.headers = set_default_headers( options )
         req.params  = options[:params] if options[:params]
       end
 
       return parsed_response( response )
     end
 
-    def set_default_headers( headers )
+    def set_default_headers( options )
+      headers = options[:headers] if options
       headers ||= {}
 
       headers["Authorization"] = "Bearer #{token}"
       headers["Content-Type"]  ||= "application/json"
+      # add support for setting a default language
+      # add support for setting the api version
 
       return headers
     end
