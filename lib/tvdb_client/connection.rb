@@ -3,8 +3,8 @@ module TVDB
     require "faraday"
     require "json"
 
-    attr_accessor :token, :response_struct
-    attr_reader   :connection, :host_url, :language, :version, :modified_since
+    attr_accessor :token, :response_struct, :language, :version, :modified_since
+    attr_reader   :connection, :host_url
 
     def initialize( options = {} )
       @token           = ""
@@ -31,16 +31,35 @@ module TVDB
     end
 
     def get( route, options = {} )
+      params, headers = parse_options( options )
+
       response = connection.get do |req|
         req.url( route )
-        req.headers = set_default_headers( options )
-        req.params  = options[:params] if options[:params]
+        req.headers = headers
+        req.params  = params
       end
 
       return parsed_response( response )
     end
 
+    def parse_options( options )
+      headers = set_default_headers( options )
+      params  = set_params( options )
+
+      return params, headers
+    end
+
+    def set_params( options )
+      [:language, :version, :modified_since, :headers].each do |param|
+        options.delete_if { |key, value| key == param }
+      end
+
+      return options
+    end
+
     def set_default_headers( options )
+      set_convenience_headers( options )
+
       headers = options[:headers] if options
       headers ||= {}
 
@@ -51,6 +70,14 @@ module TVDB
       headers["If-Modified-Since"] ||= "#{modified_since}"
 
       return headers
+    end
+
+    def set_convenience_headers( options )
+      if options
+        @language       = options[:language]
+        @version        = options[:version]
+        @modified_since = options[:modified_since]
+      end
     end
 
     def parsed_response( response )

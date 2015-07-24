@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": 24665,
+            "keyType": "fanart",
+            "subKey": "",
+            "fileName": "fanart/original/76703-1.jpg",
+            "resolution": "1280x720",
+            "ratingsInfo": {
+                "average": 6
+            }
+        },
+        {
+            "id": 42154,
+            "keyType": "fanart",
+            "subKey": "",
+            "fileName": "fanart/original/76703-2.jpg",
+            "resolution": "1280x720",
+            "ratingsInfo": {
+                "average": 6.2
+            }
+        },
+        {
+            "id": 42155,
+            "keyType": "fanart",
+            "subKey": "",
+            "fileName": "fanart/original/76703-3.jpg",
+            "resolution": "1280x720",
+            "ratingsInfo": {
+                "average": 6.375
+            }
+        }
+    ],
+    "errors": null
+}

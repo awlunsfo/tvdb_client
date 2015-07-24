@@ -39,17 +39,23 @@ describe "TVDB::Series" do
     end
 
     it "should return the 2nd page of results" do
-      result = subject.episodes( params: { page: 2 } ).list
+      result = subject.episodes( page: 2 ).list
       expect( result["links"]["next"] ).to eq( nil )
     end
 
     it "should be able to return all episodes for a series" do
-      page1 = subject.episodes( params: { page: 1 } ).list["data"]
-      page2 = subject.episodes( params: { page: 2 } ).list["data"]
+      page1 = subject.episodes( page: 1 ).list["data"]
+      page2 = subject.episodes( page: 2 ).list["data"]
 
       combined_pages = [page1, page2].flatten
 
       expect( subject.all_episodes.length ).to eq( combined_pages.length )
+    end
+  end
+
+  describe "Series Images" do
+    it "should return images for a series" do
+      expect( subject.images ).to be_a_kind_of( TVDB::Series::Images )
     end
   end
   

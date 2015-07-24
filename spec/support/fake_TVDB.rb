@@ -55,6 +55,19 @@ class FakeTVDB < Sinatra::Base
     json_response 200, 'responses/series_episodes_summary.json'
   end
 
+  get '/series/:id/images' do
+    json_response 200, 'responses/series_images.json'
+  end
+
+  get '/series/:id/images/query' do
+    json_response 200, 'responses/series_images_query.json'
+  end
+
+  get '/series/:id/images/query/params' do
+    json_response 200, 'responses/series_images_query_params.json'
+  end
+
+
   private
 
   def series_routes( request, id, json_response_string )

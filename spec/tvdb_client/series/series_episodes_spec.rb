@@ -2,20 +2,7 @@ require 'spec_helper'
 require 'json'
 
 describe "TVDB::Series" do
-  include_context "Authentication"
-
-  before( :each ) do
-    authenticate_connection
-  end
-
-  let( :series_id  ) { '76703' }
-
-  let( :series_opts ) {
-    {
-      connection: connection,
-      series_id:  series_id,
-    }
-  }
+  include_context "Series Subclass"
 
   subject { TVDB::Series::Episodes.new( series_opts ) }
 

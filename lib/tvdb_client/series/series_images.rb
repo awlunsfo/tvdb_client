@@ -1,16 +1,12 @@
 module TVDB
   class Series
-    class Episodes < TVDB::Series::Base
+    class Images < TVDB::Series::Base
 
       def initialize( options )
         @connection = options.fetch( :connection )
         @series_id  = options.fetch( :series_id )
         @params     = options.fetch( :params ) { {} }
-        @route      = "/series/#{series_id}/episodes"
-      end
-
-      def summary
-        connection.get( "#{route}/summary" ).body
+        @route      = "/series/#{series_id}/images"
       end
 
     end
