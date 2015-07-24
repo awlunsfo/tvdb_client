@@ -4,11 +4,16 @@ module TVDB
     require "json"
 
     attr_accessor :token, :response_struct
-    attr_reader   :connection, :host_url
+    attr_reader   :connection, :host_url, :language, :version, :modified_since
 
     def initialize( options = {} )
       @token           = ""
+      
       @host_url        = options.fetch( :host_url ) { Settings.tvdb.host_url }
+      @language        = options[:language]
+      @version         = options[:version]
+      @modified_since  = options[:modified_since]
+
       @connection      = Faraday.new( :url => host_url, :ssl => { :verify => false } )
       @response_struct = Struct.new( :request_url, :code, :body, :headers )
     end
@@ -39,19 +44,26 @@ module TVDB
       headers = options[:headers] if options
       headers ||= {}
 
-      headers["Authorization"] = "Bearer #{token}"
-      headers["Content-Type"]  ||= "application/json"
-      # add support for setting a default language
-      # add support for setting the api version
+      headers["Authorization"]     ||= "Bearer #{token}"
+      headers["Content-Type"]      ||= "application/json"
+      headers["Accept-Language"]   ||= "#{language}"
+      headers["Accept"]            ||= "application/vnd.thetvdb.v#{version}"
+      headers["If-Modified-Since"] ||= "#{modified_since}"
 
       return headers
     end
 
     def parsed_response( response )
+      unless response.body.empty?
+        body = JSON.parse( response.body )
+      else
+        body = nil
+      end
+
       response_struct.new(
         "#{host_url}#{response.env.url.request_uri}",
         response.status,
-        JSON.parse( response.body ),
+        body,
         response.env.response_headers
       )
     end
