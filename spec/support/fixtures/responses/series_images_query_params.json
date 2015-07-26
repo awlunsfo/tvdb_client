@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "keyType": "fanart",
+            "resolution": [
+                "1920x1080",
+                "1280x720"
+            ],
+            "subKey": [
+                "graphical",
+                "text"
+            ]
+        },
+        {
+            "keyType": "poster",
+            "resolution": "680x1000",
+            "subKey": null
+        },
+        {
+            "keyType": "season",
+            "resolution": null,
+            "subKey": [
+                "13",
+                "7",
+                "6",
+                "5",
+                "4",
+                "3",
+                "2",
+                "1",
+                "14",
+                "15",
+                "8",
+                "9",
+                "10",
+                "16",
+                "12",
+                "11",
+                "0"
+            ]
+        },
+        {
+            "keyType": "seasonwide",
+            "resolution": null,
+            "subKey": [
+                "10",
+                "1"
+            ]
+        },
+        {
+            "keyType": "series",
+            "resolution": null,
+            "subKey": [
+                "graphical",
+                "blank",
+                "text"
+            ]
+        }
+    ]
+}

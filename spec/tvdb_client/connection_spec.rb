@@ -5,6 +5,10 @@ describe "TVDB::Connection" do
 
   include_context "Connection"
 
+  let( :convenience_headers ) {
+    {:language => "derp", :version => "12345", :modified_since => "Tuesday"}
+  } 
+
   subject { TVDB::Connection.new( connection_options ) }
 
   describe "Initialization" do
@@ -40,7 +44,15 @@ describe "TVDB::Connection" do
         custom_header = { :headers => { "howdy" => "g'day mate" } }
 
         expect( subject.set_default_headers( custom_header )["howdy"] ).to eq( "g'day mate" )
-      end     
+      end
+
+      it "should set the langauge or version if passed in" do
+        subject.set_convenience_headers( convenience_headers )
+
+        expect( subject.language ).to eq( "derp" )
+        expect( subject.version ).to eq( "12345" )
+        expect( subject.modified_since ).to eq( "Tuesday" )
+      end
     end
 
     context 'responses' do
@@ -116,8 +128,16 @@ describe "TVDB::Connection" do
       end
 
       it "should take optional parameters" do
-        param_req = subject.get( '/series/1234', params: { :page => 1 } )
+        param_req = subject.get( '/series/1234', :page => 1 )
         expect( param_req.request_url ).to match( 'page=1' )
+      end
+
+      it "should override existing convenience headers" do
+        subject.get( '/series/1234', convenience_headers )
+
+        convenience_headers.each do |accessor, value|
+          expect( subject.send( accessor ) ).to eq( value )
+        end
       end
 
       context 'Unauthorized requests' do
