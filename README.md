@@ -16,59 +16,28 @@ $ gem build tvdb_client.gemspec
 
 ## Usage
 
-### Gemfile
-```ruby
-source "https://rubygems.org"
+See the Wiki for usage details.
 
-gem 'tvdb_client', :path => "/path/to/your/cloned/repository/tvdb_client"
-```
+## License
 
-### Example
-```ruby
-require 'tvdb_client'
+The MIT License (MIT)
 
-# Placeholder values
-credentials = {
-  :username => "some_user",            # username is optional
-  :userpass => "some_password",        # userpass is optional
-  :apikey   => "my_unique_api_key",
-  :host_url => "https://tvdb.api.com"
-}
+Copyright (c) [year] [fullname]
 
-tvdb = TVDB::Client.new( credentials )
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-pokemon = tvdb.series( '76703' )
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-puts pokemon.data
-
-# =>
-# {"data"=>
-#   {"id"=>76703,
-#    "seriesName"=>"Pokémon",
-#    "aliases"=>
-#     ["Pokemon",
-#      "Diamond and Pearl",
-#      "Pocket Monsters",
-#      "Pokémon: Black & White"],
-#    "banner"=>"graphical/76703-g6.jpg",
-#    "seriesId"=>"467",
-#    "status"=>"Continuing",
-#    "firstAired"=>"1997-04-01",
-#    "network"=>"TV Tokyo",
-#    "networkId"=>"",
-#    "runtime"=>"30",
-#    "genre"=>["Animation", "Children"],
-#    "actors"=>[],
-#    "overview"=>
-#     " A young boy named Ash Ketchum...",  
-#    "lastUpdated"=>1437155768,
-#    "airsDayOfWeek"=>"",
-#    "airsTime"=>"",
-#    "rating"=>"TV-Y",
-#    "imdbId"=>"tt0176385",
-#    "zap2itId"=>"",
-#    "added"=>"",
-#    "addedBy"=>nil
-#  }
-# }
-```
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

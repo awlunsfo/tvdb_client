@@ -3,14 +3,14 @@ module TVDB
     class Base
 
       attr_reader   :series_id, :data, :route
-      attr_accessor :connection, :params
+      attr_accessor :connection, :parameters
 
       def initialize
         abstract_method
       end
 
       def list
-        connection.get( route, params ).body
+        connection.get( route, parameters ).body
       end
 
       def query( options )

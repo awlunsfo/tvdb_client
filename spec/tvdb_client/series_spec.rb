@@ -58,5 +58,12 @@ describe "TVDB::Series" do
       expect( subject.images ).to be_a_kind_of( TVDB::Series::Images )
     end
   end
+
+  describe "Series Filter" do
+    it "should return filtered results for a series" do
+      expect( subject.filter( :keys => "seriesName" ) ).to be_a_kind_of( TVDB::Series::Filter )
+      expect( subject.filter( :keys => "seriesName" ).list.length ).to eq( 1 )
+    end
+  end
   
 end

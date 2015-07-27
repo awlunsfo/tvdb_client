@@ -1,0 +1,27 @@
+{
+    "data": {
+        "params": [
+            "id",
+            "seriesName",
+            "banner",
+            "status",
+            "runtime",
+            "lastUpdated",
+            "zap2itId",
+            "aliases",
+            "seriesId",
+            "actors",
+            "airsDayOfWeek",
+            "imdbId",
+            "added",
+            "firstAired",
+            "network",
+            "genre",
+            "overview",
+            "rating",
+            "addedBy",
+            "networkId",
+            "airsTime"
+        ]
+    }
+}

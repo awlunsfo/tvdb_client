@@ -67,6 +67,14 @@ class FakeTVDB < Sinatra::Base
     json_response 200, 'responses/series_images_query_params.json'
   end
 
+  get '/series/:id/filter' do
+    return not_modified_response unless params.has_key?( "keys" )
+    json_response 200, 'responses/series_filter.json' if params["keys"] == "seriesName"
+  end
+
+  get '/series/:id/filter/params' do
+    json_response 200, 'responses/series_filter_params.json'
+  end
 
   private
 
