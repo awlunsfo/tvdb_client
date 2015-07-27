@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/tvdb_client.svg)](http://badge.fury.io/rb/tvdb_client)
+
 # tvdb_client
 
 `tvdb_client` is a rubygem to interface with The TVDB's REST API.
