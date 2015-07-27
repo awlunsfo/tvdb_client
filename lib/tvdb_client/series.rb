@@ -24,6 +24,12 @@ module TVDB
       TVDB::Series::Images.new( params )
     end
 
+    def filter( options = {} )
+      set_subtype_parameters( options )
+
+      TVDB::Series::Filter.new( params )
+    end
+
     def all_episodes
       tr = TVDB::Service::Threading::ThreadedRequest.new( connection: connection )
       tr.make_request( "#{route}/episodes" )
